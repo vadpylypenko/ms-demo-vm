@@ -1,0 +1,8 @@
+{
+  "cSpell.words": ["dialogflow", "OLUFSEN"],
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "typescript.preferences.importModuleSpecifier": "relative",
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  }
+}
